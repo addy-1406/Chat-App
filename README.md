@@ -1,26 +1,21 @@
-# Social Media Web Application
+# Real-time Chat Application
 
-This is a social media web application built using the Django framework.
+This is a chat application built using `MERN` stack with real-time messaging implemented using `Socket.io`.
   
 ### Features
 
-- Send friend requests to other users and accept/reject requests received
 - User sign up and login
-- Create and edit profile page
-- Create and edit posts uploaded by the user
-- Password Reset option available to user
-- Like/Unlike posts
-- Comment on user posts
-- Search for users and posts through the search bar
+- Search for other users and create a personal chat
+- Add users to create a group chat
+- Send and receive real-time messages
 
 ###  Technologies Used
 
-
-Backend : `Django`
+Backend : `Node.Js, Express.Js, Socket.io`
 <br/><br/>
-Frontend : `HTML5, CSS(Bootstrap4 + Custom CSS), AJAX`
+Frontend : `React.Js, CSS`
 <br/><br/>
-Database: `Sqlite3`
+Database: `Mongo DB`
 <br/><br/>
 
 ### Installation
