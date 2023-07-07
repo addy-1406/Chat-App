@@ -20,11 +20,11 @@ Database: `Mongo DB`
 
 ### Installation
 
-1. - Fork the [repo](https://github.com/addy-1406/Social_Media/tree/master)
+1. - Fork the [repo](https://github.com/addy-1406/Chat-App.git)
    - Clone the repo to your local system
    ```git
-   git clone https://github.com/addy-1406/Social_Media.git
-   cd Social_Media
+   git clone https://github.com/addy-1406/Chat-App.git
+   cd Chat
    ```
    Make sure you have python installed on your system.
 2. Create a Virtual Environment for the Project
