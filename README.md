@@ -4,7 +4,7 @@
 
 - User sign up and login
 - Search for other users and create a personal chat
-- Add users to create a group chat
+- Add and remove users from a group chat
 - Send and receive real-time messages
 
 ###  Technologies Used
