@@ -9,12 +9,9 @@
 
 ###  Technologies Used
 
-Backend : `Node.Js, Express.Js, Socket.io`
-<br/><br/>
-Frontend : `React.Js, CSS`
-<br/><br/>
-Database: `Mongo DB`
-<br/><br/>
+- Backend : `Node.Js, Express.Js, Socket.io`
+- Frontend : `React.Js, CSS`
+- Database: `Mongo DB`
 
 ### Installation
 
