@@ -18,55 +18,45 @@ This educational web application emulates modern messaging platforms by incorpor
 ### Installation
 
 1. Fork and clone the repo to your local system
-   ```bash
+   ```git
    git clone https://github.com/addy-1406/Chat-App.git
    ```
 
-2. Go to the project directory
+2. Go to the project root directory
 
-   ```bash
+   ```git
    cd Chat
    ```
 
+3. Install backend dependencies (inside the root directory of project)
+  
+    ```git
+   npm install
+   ```
+    
+4. Install frontend dependencies (inside the root directory of project)
 
-   **For Linux Users**
-   ```bash
-   virtualenv env
-   source env/Scripts/activate
+   ```git
+   cd frontend
+   ```
+   ```git
+   npm install
    ```
 
-  [//]: # ( If you are giving a different name than `env`, mention it in `.gitignore` first)
+5. Start the server
 
-3. Install all the requirements
-
-    ```bash
-   cd photoshare
+   ```git
+   npm start
    ```
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+5. Start the client
 
-4. Make migrations/ Create db.sqlite3
-
-   ```bash
-   python manage.py makemigrations
-   python manage.py migrate
-   ```
-
-5. Create a super user.
-   This is to access Admin panel and admin specific pages.
-
-   ```djangotemplate
-   python manage.py createsuperuser
+   ```git
+   cd frontend
    ```
    
-
-   Enter your username, email and password.
-
-6. Run server
-   ```bash
-   python manage.py runserver
+    ```git
+   npm start
    ```
 <br/>
 
