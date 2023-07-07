@@ -9,6 +9,7 @@ This educational web application emulates modern messaging platforms by incorpor
 - Discover and initiate personal as well as group chats
 - Add and remove users from a group chat
 - Send and receive real-time messages
+- Fully responsive
 
 ###  Technologies Used
 
@@ -63,37 +64,33 @@ This educational web application emulates modern messaging platforms by incorpor
 
 
 
-### Screenshots of Website
+### Views
 
 **Sign Up Page**
 
-<img width="1276" alt="SignUp" src="https://github.com/addy-1406/Social_Media/assets/53403138/11683166-36d0-440c-a52b-f9d147d9a66e">
+<img width="900" alt="SignUp" src="https://github.com/addy-1406/Chat-App/assets/72205646/56283849-d5d8-4a98-bb36-b2a04bf8971b">
 <br/>
 
-**Home Page**
+**Login Page**
 
-<img width="1276" alt="HomePage" src="https://github.com/addy-1406/Social_Media/assets/53403138/e4311615-d436-48c8-bbf7-cb880e43bbf8">
+<img width="900" alt="SignUp" src="https://github.com/addy-1406/Chat-App/assets/72205646/dd2ad37a-691d-4253-acb6-74c37d91e3ef">
 <br/>
 
-**Create Post Page**
+**Home Page and Profile**
 
-<img width="1276" alt="CreatePost" src="https://github.com/addy-1406/Social_Media/assets/53403138/3661bd9d-aee6-474c-9c2b-5c05d65811ca">
+<img width="900" alt="CreatePost" src="https://github.com/addy-1406/Chat-App/assets/72205646/c5e06860-385a-4924-8d69-114af65d8ffe">
 <br/>
 
-**Page to keep track of friend requests received and sent**
+**Chat box**
 
-<img width="1276" alt="Socialize" src="https://github.com/addy-1406/Social_Media/assets/53403138/e78c3b64-b23c-4d7a-a117-343f7da7edf5">
+<img width="900" alt="Socialize" src="https://github.com/addy-1406/Chat-App/assets/72205646/d551c8ef-0f91-48db-bee6-aa748f05a1b9">
 <br/>
 
-**Comments section for a post**
+**Creating group chat**
 
-<img width="1276" alt="Comment Section" src="https://github.com/addy-1406/Social_Media/assets/53403138/a18c551f-f356-4243-a1fd-0bbeb1a2bc72">
+<img width="900" alt="Comment Section" src="https://github.com/addy-1406/Chat-App/assets/72205646/36fbe131-d4b6-447d-bc35-3cbb4b74e5fe">
 <br/>
 
-**Update Profile Page**
-
-<img width="1276" alt="Update Profile" src="https://github.com/addy-1406/Social_Media/assets/53403138/2d3dfbdb-2abb-4d45-a83f-59f2142804e8">
-<br/>
 
 
 
