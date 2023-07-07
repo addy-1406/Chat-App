@@ -5,6 +5,7 @@ This educational web application emulates modern messaging platforms by incorpor
 ### Features
 
 - User registration and login
+- User authentication measures storing passwords in encrypted form
 - Discover and initiate personal as well as group chats
 - Add and remove users from a group chat
 - Send and receive real-time messages
