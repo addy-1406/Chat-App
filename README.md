@@ -1,6 +1,4 @@
 # Real-time Chat Application
-
-This is a chat application built using `MERN` stack with real-time messaging implemented using `Socket.io`.
   
 ### Features
 
