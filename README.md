@@ -20,8 +20,8 @@ Database: `Mongo DB`
 
 ### Installation
 
-1. - Fork and clone the repo to your local system
-   ```git
+1. Fork and clone the repo to your local system
+   ```bash
    git clone https://github.com/addy-1406/Chat-App.git
    ```
 
