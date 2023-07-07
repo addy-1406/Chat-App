@@ -1,4 +1,6 @@
 # Real-time Chat Application
+
+This educational web application emulates modern messaging platforms by incorporating real-time messaging functionality, allowing users to communicate seamlessly both individually and within group settings.
   
 ### Features
 
