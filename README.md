@@ -20,24 +20,15 @@ Database: `Mongo DB`
 
 ### Installation
 
-1. - Fork the [repo](https://github.com/addy-1406/Chat-App.git)
-   - Clone the repo to your local system
+1. - Fork and clone the repo to your local system
    ```git
    git clone https://github.com/addy-1406/Chat-App.git
+   ```
+
+2. Go to the project directory
+
+   ```bash
    cd Chat
-   ```
-   Make sure you have python installed on your system.
-2. Create a Virtual Environment for the Project
-
-   If u don't have a virtualenv installed
-
-   ```bash
-   pip install virtualenv
-   ```
-   **For Windows Users**
-   ```bash
-   virtualenv env
-   env/Scripts/activate
    ```
 
 
